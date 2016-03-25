@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Dry Needling Academy]]></title>
-        <description><![CDATA[Dry Needling Academy]]></description>
+        <title><![CDATA[The Dry Needling Academy]]></title>
+        <description><![CDATA[The Dry Needling Academy]]></description>
         <link>https://thegrid.ai/dry-needling-academy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 17:59:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 18:52:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dry-needling-academy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/dry-needling-academy/de-dry-needling-academy-is-een-opleiding-die-triggerpunt-the/index.html</link>
             <guid isPermaLink="false">84c63313-ac08-49f0-9532-34d50aa6dc7d</guid>
             <pubDate>Fri, 25 Mar 2016 17:59:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8be6575-28d7-4dfa-9bac-aa4579650df8.jpg">]]></description>
+            <link>http://timdaelemans.wix.com/dryneedlingacademy</link>
+            <guid isPermaLink="false">eda5318e-d445-4cf7-a12d-c45f2eab1d88</guid>
+            <pubDate>Fri, 25 Mar 2016 18:51:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
