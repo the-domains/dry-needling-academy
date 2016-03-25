@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dry Needling Academy]]></title>
         <description><![CDATA[Dry Needling Academy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dry-needling-academy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 17:57:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 17:59:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dry-needling-academy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>undefinedde-dry-needling-academy-is-een-opleiding-die-triggerpunt-the/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/051698ce-b173-43a5-b7d5-08c6b021297c.jpg">]]></description>
+            <link>https://thegrid.ai/dry-needling-academy/de-dry-needling-academy-is-een-opleiding-die-triggerpunt-the/index.html</link>
             <guid isPermaLink="false">84c63313-ac08-49f0-9532-34d50aa6dc7d</guid>
-            <pubDate>Fri, 25 Mar 2016 17:57:05 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2016 17:59:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
