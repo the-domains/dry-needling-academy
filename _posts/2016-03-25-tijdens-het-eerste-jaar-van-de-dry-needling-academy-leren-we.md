@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://timdaelemans.wix.com/dryneedlingacademy'
 inLanguage: null
 starred: false
 keywords: []
 description: "Tijdens het eerste jaar van de Dry Needling Academy leren we je: Op een verantwoorde manier omgaan met de priktechnieken. We overlopen het O&O protocol en de evaltuatie van de toepassing van de veiligheidsvoorschriften in het algemeen gebruik van een dryneedling De meest voorkomende trigger points van de arm. (module 1) De meest voorkomende trigger points van het been.\_(module 2) De toepassing van al deze technieken op patiënten en hoe je de Dry Needling combineert met je andere behandelingstechnieken.\_(module 3) De toepassing van de Dry Needling technieken van jaar 1 op echte patiënten en in OSCE's.\_(module 3)"
-datePublished: '2016-03-26T09:08:20.204Z'
-dateModified: '2016-03-25T18:59:37.853Z'
+datePublished: '2016-03-26T09:08:39.070Z'
+dateModified: '2016-03-26T09:08:27.280Z'
 author: []
 title: Het eerste jaar DNA
 sourcePath: _posts/2016-03-25-tijdens-het-eerste-jaar-van-de-dry-needling-academy-leren-we.md
@@ -18,7 +19,6 @@ publisher:
   domain: timdaelemans.wix.com
   url: null
   favicon: null
-url: het-eerste-jaar-dna/index.html
 _context: 'http://schema.org'
 _type: Article
 
